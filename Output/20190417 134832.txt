@@ -1,0 +1,17 @@
+Skipped Training: True, Epochs: 5, Sequence Length: 200, Batch Size: 24, Number Generate: 200, Seed: --------GGG==, Resumed Training: False, RNN Size: 1024, Temperature 1
+PF==F=P-*-=GG-SS
+F*L*-G
+F
+LLLGSLLL*
+LLLGLGL*=PL-LG-=*-
+=PG*GSFSP=F-PF-L
+-L*=-L
+P=-P-
+FSFS
+*==GFGFG-GLS---LGS=FL
+-P=-F*PSP-GFS
+LP=PGG=-GL=GS--GF-PF-LS
+GG=GFG-FPS=P-*=FSLGF
+
+*=GLSGLG*L--LG*F*F
+PP-PL=F*=
